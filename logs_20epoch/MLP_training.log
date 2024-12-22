@@ -1,0 +1,22 @@
+2024-11-23 10:03:46,128 - INFO - The model is MLP
+2024-11-23 10:03:53,194 - INFO - Epoch [1/20], Train Loss: 0.1710, Validation Loss: 0.1850
+2024-11-23 10:03:59,254 - INFO - Epoch [2/20], Train Loss: 0.1425, Validation Loss: 0.1872
+2024-11-23 10:04:04,854 - INFO - Epoch [3/20], Train Loss: 0.1338, Validation Loss: 0.1840
+2024-11-23 10:04:10,228 - INFO - Epoch [4/20], Train Loss: 0.1304, Validation Loss: 0.1878
+2024-11-23 10:04:15,716 - INFO - Epoch [5/20], Train Loss: 0.1264, Validation Loss: 0.1926
+2024-11-23 10:04:21,030 - INFO - Epoch [6/20], Train Loss: 0.1234, Validation Loss: 0.1956
+2024-11-23 10:04:26,889 - INFO - Epoch [7/20], Train Loss: 0.1204, Validation Loss: 0.1807
+2024-11-23 10:04:33,019 - INFO - Epoch [8/20], Train Loss: 0.1182, Validation Loss: 0.1758
+2024-11-23 10:04:38,847 - INFO - Epoch [9/20], Train Loss: 0.1157, Validation Loss: 0.1899
+2024-11-23 10:04:44,809 - INFO - Epoch [10/20], Train Loss: 0.1136, Validation Loss: 0.1835
+2024-11-23 10:04:50,796 - INFO - Epoch [11/20], Train Loss: 0.1119, Validation Loss: 0.1871
+2024-11-23 10:04:56,895 - INFO - Epoch [12/20], Train Loss: 0.1117, Validation Loss: 0.1860
+2024-11-23 10:05:03,054 - INFO - Epoch [13/20], Train Loss: 0.1105, Validation Loss: 0.1865
+2024-11-23 10:05:09,110 - INFO - Epoch [14/20], Train Loss: 0.1090, Validation Loss: 0.1855
+2024-11-23 10:05:15,131 - INFO - Epoch [15/20], Train Loss: 0.1086, Validation Loss: 0.1951
+2024-11-23 10:05:21,263 - INFO - Epoch [16/20], Train Loss: 0.1061, Validation Loss: 0.1977
+2024-11-23 10:05:27,188 - INFO - Epoch [17/20], Train Loss: 0.1050, Validation Loss: 0.1935
+2024-11-23 10:05:33,238 - INFO - Epoch [18/20], Train Loss: 0.1038, Validation Loss: 0.1896
+2024-11-23 10:05:39,250 - INFO - Epoch [19/20], Train Loss: 0.1038, Validation Loss: 0.1909
+2024-11-23 10:05:45,292 - INFO - Epoch [20/20], Train Loss: 0.1025, Validation Loss: 0.1924
+2024-11-23 10:05:47,490 - INFO - Test Loss: 0.2208

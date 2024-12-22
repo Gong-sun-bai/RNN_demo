@@ -1,0 +1,22 @@
+2024-11-23 10:04:22,083 - INFO - The model is GRU
+2024-11-23 10:04:36,624 - INFO - Epoch [1/20], Train Loss: 0.1484, Validation Loss: 0.1292
+2024-11-23 10:04:50,542 - INFO - Epoch [2/20], Train Loss: 0.1227, Validation Loss: 0.1213
+2024-11-23 10:05:01,855 - INFO - Epoch [3/20], Train Loss: 0.1046, Validation Loss: 0.1236
+2024-11-23 10:05:16,527 - INFO - Epoch [4/20], Train Loss: 0.0844, Validation Loss: 0.1418
+2024-11-23 10:05:30,994 - INFO - Epoch [5/20], Train Loss: 0.0660, Validation Loss: 0.1590
+2024-11-23 10:05:45,176 - INFO - Epoch [6/20], Train Loss: 0.0521, Validation Loss: 0.1615
+2024-11-23 10:05:59,138 - INFO - Epoch [7/20], Train Loss: 0.0423, Validation Loss: 0.1656
+2024-11-23 10:06:13,230 - INFO - Epoch [8/20], Train Loss: 0.0357, Validation Loss: 0.1707
+2024-11-23 10:06:27,650 - INFO - Epoch [9/20], Train Loss: 0.0312, Validation Loss: 0.1692
+2024-11-23 10:06:41,939 - INFO - Epoch [10/20], Train Loss: 0.0279, Validation Loss: 0.1745
+2024-11-23 10:06:55,160 - INFO - Epoch [11/20], Train Loss: 0.0251, Validation Loss: 0.1740
+2024-11-23 10:07:08,635 - INFO - Epoch [12/20], Train Loss: 0.0237, Validation Loss: 0.1764
+2024-11-23 10:07:21,308 - INFO - Epoch [13/20], Train Loss: 0.0211, Validation Loss: 0.1748
+2024-11-23 10:07:33,918 - INFO - Epoch [14/20], Train Loss: 0.0197, Validation Loss: 0.1706
+2024-11-23 10:07:46,407 - INFO - Epoch [15/20], Train Loss: 0.0184, Validation Loss: 0.1689
+2024-11-23 10:07:59,106 - INFO - Epoch [16/20], Train Loss: 0.0178, Validation Loss: 0.1686
+2024-11-23 10:08:11,863 - INFO - Epoch [17/20], Train Loss: 0.0166, Validation Loss: 0.1643
+2024-11-23 10:08:24,584 - INFO - Epoch [18/20], Train Loss: 0.0160, Validation Loss: 0.1706
+2024-11-23 10:08:37,004 - INFO - Epoch [19/20], Train Loss: 0.0153, Validation Loss: 0.1705
+2024-11-23 10:08:48,431 - INFO - Epoch [20/20], Train Loss: 0.0149, Validation Loss: 0.1706
+2024-11-23 10:08:50,038 - INFO - Test Loss: 0.1840
