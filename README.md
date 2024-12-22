@@ -77,10 +77,11 @@ Jena气候数据集包含了从2009年1月1日到2016年12月31日的气象数�
 4. 训练模型：
    - 运行每个模型的训练脚本：
      ```bash
-     python train_mlp.py
-     python train_rnn.py
-     python train_lstm.py
-     python train_gru.py
+     python RNN.py
+     python compare_RNN.py
+     python LSTM.py
+     python MLP.py
+     python GRU.py
      ```
 
 5. 结果：
